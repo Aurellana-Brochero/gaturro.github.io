@@ -1,0 +1,166 @@
+@font-face{
+	font-family : Captoon ES demo;
+	src:url(“Fuentes/CaptoonES-Demo.ttf”);
+	font-family:Frogie;
+	src:url("Fuentes/Frogie-Regular.ttf");
+}
+
+
+body{
+	background-color:#f0e224;
+}
+h1{ 
+	color:#754b02;
+	text-align:center;
+	font-size:50px;
+	background-color:#f0e224;
+	border-width:8px;
+	border-radius:13px;
+	margin-left:12%; 
+	margin-right:12%;
+	border-color:#3d64ff;
+	border-style:dotted;
+	font-family:Frogie;
+	
+}
+h2{
+	color:#754b02;
+	font-size:30px;
+	background-color:#f0e224;
+	border-width:5px;
+	margin-left:5%; 
+	margin-right:10%;
+	border-bottom-style:solid;
+	border-bottom-color:#3d64ff;
+
+}
+h3{
+	color:#754b02;
+	font-size:27px;
+
+	margin-left:7%; 
+	margin-right:10%;	
+	
+}
+p{
+	color:#754b02;
+	font-size:20px;
+	text-align:justify;
+	margin-left:10%; /* sirve para poner margen izquierdo */
+	margin-right:10%; /* sirve para poner margen derecho */
+	line-height:35px; /*sirve para poner interniliado*/
+	margin-top:20px;
+	text-shadow:1px 1px 3px #f29c46;
+	
+}
+ul{
+	color:#5c441c;
+	font-size:22px;
+	text-align:justify;
+	margin-left:15%; 
+	margin-right:10%;
+	text-shadow:1px 1px 3px #f29c46;
+}
+img{
+	display:block;
+	margin:auto;
+	margin-top:5%;
+	margin-bottom:5%;
+	border-color:#b06825;
+	border-style:dotted;
+	border-width:5px;
+	border-radius:25px;
+	box-shadow:1px 1px 5px #d19d19;
+}
+a:link{
+	color:#6905a3;
+	font-size:22px;
+	margin-left:3%;
+	margin-right:3%;
+	text-decoration:none;
+	border-bottom-style:double;
+	border-bottom-color:#6905a3;
+}
+a:hover{
+	color:#6905a3;
+	background-color:#ff2f00;
+	border-style:solid;
+	text-decoration:underline;
+}
+a:visited:{
+	color:red;
+	background-color:#ffffff;
+	
+}
+table{
+	color:#000000;
+	font-size:19px;
+	background-color:#e69407;	
+	text-align:justify;
+	margin:auto;
+	width:90%;
+	border-color:#ba7d13;
+	border-style:solid;
+	border-width:5px;
+	box-shadow:3px 3px 5px #f5ec4e;
+	text-shadow:1px 1px 2px #f29c46;
+}
+td{
+	border-style:solid;
+	border-color:#ff580a;
+	border-width:2px;
+}
+iframe{
+	display:block;
+	margin:auto;
+}
+.titulo{
+	text-align:center;
+	font-size:25px;
+	margin:auto;
+	color:#ff0a1f;
+	
+
+}
+.hogar{
+	display:block;
+	margin-left:5%;
+	border:none;
+	box-shadow:2px 2px 10px #f0e224
+}
+.galeria{
+	
+	margin-left:2.5%;
+	margin-right:2.5%;
+
+	margin-top:none;
+	border:none;
+	display:inline;
+}
+.objetos{
+	margin:auto;
+	text-align:center;
+}
+.pj{
+	color:#754b02;
+	font-size:27px;
+	background-color:#f0e224;
+	margin-left:0%; 
+	margin-right:10%;
+}
+.gale:link{
+	border-bottom-style:none;
+}
+.gale:hover{
+	background-color:transparent;
+	text-decoration:none;
+	border-style:none;
+}
+.nik{
+	color:#6e2a03;
+	
+}
+
+
+
+	
